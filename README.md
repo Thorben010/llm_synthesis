@@ -15,15 +15,15 @@ Synthesis Planning for Inorganic Materials" 🤖
       </a>
     </td>
     <td align="center" width="33%" style="border: none; padding: 20px;">
-      <a href="https://github.com/Thorben010/SyntMTE" target="_blank">
-        <img src="figures/syntmte_logo.png" alt="Logo" width="170px" height="150px" />
-        <p>SyntMTE</p>
-      </a>
-    </td>
-    <td align="center" width="33%" style="border: none; padding: 20px;">
       <a href="https://huggingface.co/datasets/thor1/LLMForge" target="_blank">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Logo" width="170px" height="150px" />
         <p>Dataset on HuggingFace</p>
+      </a>
+    </td>
+    <td align="center" width="33%" style="border: none; padding: 20px;">
+      <a href="https://github.com/Thorben010/SyntMTE" target="_blank">
+        <img src="figures/syntmte_logo.png" alt="Logo" width="170px" height="150px" />
+        <p>SyntMTE</p>
       </a>
     </td>
   </tr>
