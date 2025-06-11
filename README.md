@@ -11,13 +11,13 @@ Synthesis Planning for Inorganic Materials" 🤖
     <td align="center" width="33%" style="border: none; padding: 20px;">
       <a href="https://github.com/janik-j/APIRetroSynthesisFinal" target="_blank">
         <img src="figures/llm_synthesis_logo.png" alt="Logo" width="170px" height="200px" />
-        <p>LM-Dataset Generation</p>
+        <p>Benchmark & Run LMs</p>
       </a>
     </td>
     <td align="center" width="33%" style="border: none; padding: 20px;">
       <a href="https://huggingface.co/datasets/thor1/LLMForge" target="_blank">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Logo" width="170px" height="150px" />
-        <p>Dataset on HuggingFace</p>
+        <p>LM-Dataset on HuggingFace</p>
       </a>
     </td>
     <td align="center" width="33%" style="border: none; padding: 20px;">
