@@ -8,16 +8,22 @@ Synthesis Planning for Inorganic Materials" 🤖
   
 <table style="border: none; border-collapse: collapse;">
   <tr>
-    <td align="center" width="50%" style="border: none; padding: 20px;">
+    <td align="center" width="33%" style="border: none; padding: 20px;">
       <a href="https://github.com/janik-j/APIRetroSynthesisFinal" target="_blank">
         <img src="figures/llm_logo.png" alt="Logo" width="170px" height="150px" />
         <p>LM-Dataset Generation</p>
       </a>
     </td>
-    <td align="center" width="50%" style="border: none; padding: 20px;">
+    <td align="center" width="33%" style="border: none; padding: 20px;">
       <a href="https://github.com/Thorben010/SyntMTE" target="_blank">
         <img src="figures/syntmte_logo.png" alt="Logo" width="170px" height="150px" />
         <p>SyntMTE</p>
+      </a>
+    </td>
+    <td align="center" width="33%" style="border: none; padding: 20px;">
+      <a href="https://huggingface.co/datasets/thor1/LLMForge" target="_blank">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Logo" width="170px" height="150px" />
+        <p>Dataset on HuggingFace</p>
       </a>
     </td>
   </tr>
