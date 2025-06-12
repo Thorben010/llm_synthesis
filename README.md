@@ -9,7 +9,7 @@ Synthesis Planning for Inorganic Materials" 🤖
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td align="center" width="33%" style="border: none; padding: 20px;">
-      <a href="https://github.com/janik-j/APIRetroSynthesisFinal" target="_blank">
+      <a href="https://github.com/janik-j/LM-Dataset-Generation" target="_blank">
         <img src="figures/llm_synthesis_logo.png" alt="Logo" width="170px" height="200px" />
         <p>Benchmark & Run LMs</p>
       </a>
